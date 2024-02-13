@@ -1,7 +1,7 @@
 
 ![sandbox](https://github.com/DryRunSecuritySandbox/.github/assets/544667/bfb0829f-fa9d-49d5-a464-50fdf66db1ac)
 
-# DryRunSecurity Sandbox 🔒
+# DryRun Security Sandbox 🔒
 
 Welcome to [DryRun Security's](https://app.dryrun.security) sandbox for testing our security tool 👋! 
 
